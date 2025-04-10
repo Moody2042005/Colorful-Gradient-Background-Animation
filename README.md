@@ -1,5 +1,5 @@
 # Colorful Gradient Background Animation
-Project Preview
+**Project Preview**
 
 A simple web project that creates a smooth, colorful gradient animation effect as the background of a webpage.
 
